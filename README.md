@@ -1,3 +1,3 @@
 # Amazon-Clone
 
-<img src="./assets/asset%200.png" alt="company-logo">
+<img src="./images/amazon-clon-ss.png" alt="company-logo">
